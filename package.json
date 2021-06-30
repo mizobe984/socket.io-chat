@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "npx nodemon serve"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.8"
+  },
+  "name": "io",
+  "version": "1.0.0",
+  "main": "serve.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
